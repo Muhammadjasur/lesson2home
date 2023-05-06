@@ -1,0 +1,16 @@
+body{
+    
+    background-color: antiquewhite;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.conteiner{
+    margin-left: 20%;
+}
+.line1{
+    height: 3px;
+    border: none;
+    background-color:gray;
+}
+ul{
+    list-style-type: circle;
+}
